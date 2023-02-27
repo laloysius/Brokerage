@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Brokerage", "Brokerage.dtproj", "{B7EE7514-F550-4BE2-B3FB-46F53CC36AAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Azure|Default = Azure|Default
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7EE7514-F550-4BE2-B3FB-46F53CC36AAE}.Azure|Default.ActiveCfg = Azure
+		{B7EE7514-F550-4BE2-B3FB-46F53CC36AAE}.Azure|Default.Build.0 = Azure
+		{B7EE7514-F550-4BE2-B3FB-46F53CC36AAE}.Development|Default.ActiveCfg = Development
+		{B7EE7514-F550-4BE2-B3FB-46F53CC36AAE}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3CF89B5-8009-4076-9AEA-5B4694F288FB}
+	EndGlobalSection
+EndGlobal

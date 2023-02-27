@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="GRSQLSVR01.gulfrelay.local.gfra_1710"
+  DTS:DTSID="{E3E48CF1-7744-4E4C-B22A-532CB5A0C8A2}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=GRSQLSVR01.gulfrelay.local;Initial Catalog=ITDevelopersDB;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-Package-{E3E48CF1-7744-4E4C-B22A-532CB5A0C8A2}GRSQLSVR01.gulfrelay.local.gfra_1710;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
